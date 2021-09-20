@@ -1,12 +1,9 @@
-### Hi there 👋
-
-<body background = "">
 <table>
   <tr>
     <td width = "400"><img width = "400" src = "https://user-images.githubusercontent.com/50188040/133985588-d6aae43c-0bdf-4652-be28-123cbac0e158.jpg"></td>
-    <td>
-    - 🔭 ㅋㅋㅋㅋㅋ재밌다<br>
-    - 🌱 전 공부가 싫어요 
+    <td align="center">
+    - 🌱 전 공부가 싫어요<br>
+    - 💬 제 인생을 최적화하고싶어요
     </td>
   </tr>
 </table>
