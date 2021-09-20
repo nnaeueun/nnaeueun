@@ -1,13 +1,7 @@
-<table>
-  <tr>
-    <td width = "400"><img width = "400" src = "https://user-images.githubusercontent.com/50188040/133985588-d6aae43c-0bdf-4652-be28-123cbac0e158.jpg"></td>
-    <td align="center">
-    - 🌱 전 공부가 싫어요<br>
-    - 💬 제 인생을 최적화하고싶어요
-    </td>
-  </tr>
-</table>
-</body>
+<img width = "400" src = "https://user-images.githubusercontent.com/50188040/133985588-d6aae43c-0bdf-4652-be28-123cbac0e158.jpg"><br>
+## - 🌱 전 공부가 싫어요<br>
+## - 💬 제 인생을 최적화하고싶어요
+
 
 <!--
 **kimnafla11/kimnafla11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
