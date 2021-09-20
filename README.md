@@ -1,11 +1,6 @@
 ### Hi there 👋
-<style>
-#aaa{
-  background-image:url();
-}
-</style>
 
-<body>
+<body background = "">
 <table>
   <tr>
     <td width = "400"><img width = "400" src = "https://user-images.githubusercontent.com/50188040/133985588-d6aae43c-0bdf-4652-be28-123cbac0e158.jpg"></td>
