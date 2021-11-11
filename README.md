@@ -1,5 +1,5 @@
 ## - 🌱 전 공부가 싫어요<br>
-## - 💬 제 인생을 최적화하고싶어요<br>
+## - 💬 제 인생을 최적화하고싶어요<br>Cancel changes
 <img width = "400" src = https://user-images.githubusercontent.com/50188040/133988362-b690f1ff-e88d-488c-a922-1ffe3f846ee4.jpg><br>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/kimnafla11/kimnafla11.svg)
@@ -7,7 +7,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:po02026@gmail.com)](mailto:po02026@gmail.com)
 </br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimnafla11)](https://github.com/anuraghazra/github-readme-stats)
-
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnafla11&layout=compact)](https://github.com/kimnafla11/github-readme-stats)
 
 
 <!--
