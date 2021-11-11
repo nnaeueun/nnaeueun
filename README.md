@@ -1,5 +1,5 @@
 ## - 🌱 전 공부가 싫어요<br>
-## - 💬 제 인생을 최적화하고싶어요<br>Cancel changes
+## - 💬 제 인생을 최적화하고싶어요<br>
 <img width = "400" src = https://user-images.githubusercontent.com/50188040/133988362-b690f1ff-e88d-488c-a922-1ffe3f846ee4.jpg><br>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/kimnafla11/kimnafla11.svg)
